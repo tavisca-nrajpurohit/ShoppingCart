@@ -1,0 +1,16 @@
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.deps.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.pdb
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.pdb
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices.Tests\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.Tests.pdb
