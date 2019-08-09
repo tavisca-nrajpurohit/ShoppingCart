@@ -8,14 +8,15 @@ namespace Cart_CleanCodePractices
     {
         // Disctionary structure --> <Product, Quantity>
         private Dictionary<Product,int> _cartItemList;
+        private ClassDiscount classDiscount = new ClassDiscount();
+        ProductDiscount discountOnProduct = new ProductDiscount();
+        CategoryDiscount discountOnCategory = new CategoryDiscount();
 
-        private int _percentageDiscountOnCart;
-        
         public Cart()
         {
             _cartItemList = new Dictionary<Product, int>();
-            _percentageDiscountOnCart = ServerConfiguration.GetPercentageDiscount();
         }
+
         public void Add(Product product, int quantity)
         {
             if(_cartItemList.ContainsKey(product))
@@ -52,21 +53,49 @@ namespace Cart_CleanCodePractices
         {
             Double totalCost = 0;
             Double totalCostAfterDiscount = 0;
-        
+            
             foreach (var item in _cartItemList)
             {
-                Double itemCost = 0;
-                itemCost = item.Key.Price * item.Value ;
+                Double itemCost;
+                itemCost = item.Key.Price * item.Value;
+                itemCost = itemCost * (100 - GetProductDiscount(item.Key)) / 100;
+                itemCost = itemCost * (100 - GetCategoryDiscount(item.Key.category)) / 100;
 
                 totalCost += itemCost;
             }
-            totalCostAfterDiscount = totalCost * ((100 - GetPercentageDiscount()) / 100);
+            totalCostAfterDiscount = totalCost * (100 - GetPercentageDiscount()) / 100;
+            
             return totalCostAfterDiscount;
         }
 
         public int GetPercentageDiscount()
         {
-            return _percentageDiscountOnCart;
+            return classDiscount.GetDiscount();
+        }
+
+        public void SetPercentageDiscount(int discountValue)
+        {
+            classDiscount.SetDiscount(discountValue);
+        }
+
+        public int GetCategoryDiscount(Category category)
+        {
+            return discountOnCategory.GetDiscount(category);
+        }
+
+        public void SetCategoryDiscount(Category category,int discountValue)
+        {
+            discountOnCategory.SetDiscount(category,discountValue);
+        }
+
+        public int GetProductDiscount(Product product)
+        {
+            return discountOnProduct.GetDiscount(product);
+        }
+
+        public void SetProductDiscount(Product product, int discountValue)
+        {
+            discountOnProduct.SetDiscount(product, discountValue);
         }
     }
 }
