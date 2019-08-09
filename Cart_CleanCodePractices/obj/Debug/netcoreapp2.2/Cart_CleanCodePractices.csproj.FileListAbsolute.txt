@@ -1,0 +1,11 @@
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.deps.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\bin\Debug\netcoreapp2.2\Cart_CleanCodePractices.pdb
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.dll
+C:\Users\nrajpurohit\source\repos\Cart_CleanCodePractices\Cart_CleanCodePractices\obj\Debug\netcoreapp2.2\Cart_CleanCodePractices.pdb
